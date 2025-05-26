@@ -33,5 +33,4 @@ https://raginipatel17.github.io/canva/
 
    ## 6. This is a NOTES APPLICATION with API Integration.
 #### Using 😍HTML 😩CSS 🤯JAVASCRIPT 💁‍♀️REACTJS-VITE 😌TAILWIND 👌RAPID-API 🫠LOCAL-STORAGE
-### Link to site:
- https://health-tracker-bice-omega.vercel.app/workoutdetails
+
